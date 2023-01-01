@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 ---
                                                                                                                                                     
 ### Stats:                                                                                                                          
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=edakn&show_icons=true&theme=tokyonight) 
+![Eda's GitHub stats](https://github-readme-stats.vercel.app/api?username=edakn&show_icons=true&theme=tokyonight)
 
