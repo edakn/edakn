@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/140px-Java_Logo.svg.png" alt="python" width="26px"/>
 
 ---
-
+<br>
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=edakn&show_icons=true&theme=tokyonight) 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edakn)](https://github.com/edakn/edakn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edakn&theme=tokyonight)](https://github.com/edakn/edakn)
