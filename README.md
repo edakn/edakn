@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edaakin/)
 <br>
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=edakn&show_icons=true&theme=tokyonight) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edakn&exclude_repo=github-readme-stats,anuraghazra.github.io)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edakn&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
