@@ -1,15 +1,15 @@
-### Hi human👋
+### Hi human, we need to meet👋
 
-- 🔭 I’m currently working on ML.
+- 🔭 I’m currently working on my knowledge of AI and ML.
 - 🌱 I’m currently learning Flutter!
 - 💬 Ask me about anything!
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I always said I would be a back-end developer, but now I like data science more 💻
 
 
-### Connect with me:
+### 🎆Connect with me:
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edaakin/)
 
-### Languages and Tools:
+### ➰Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -21,7 +21,7 @@
                                                                                                                                                     
 ---
                                                                                                                                                     
-### Stats:         
+### ✨Stats:         
                                                                                                                                                     
 ![Eda's GitHub stats](https://github-readme-stats.vercel.app/api?username=edakn&show_icons=true&theme=tokyonight)
 <br>
