@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" style="padding-right:10px;" />]
 [<img align="left" alt="Csharp" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" style="padding-right:10px;" />]
-</br>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 ---
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=edakn&show_icons=true&theme=tokyonight) 
