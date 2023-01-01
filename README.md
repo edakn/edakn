@@ -29,7 +29,6 @@ Here are some ideas to get you started:
                                                                                                                                                     
 ---
                                                                                                                                                     
-                                                                                                                                                    
-<br>                                                                                                                                                    
+### Stats:                                                                                                                          
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=edakn&show_icons=true&theme=tokyonight) 
 
