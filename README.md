@@ -1,5 +1,5 @@
 ###  G’day mate! 
-<img  width="300px" src="https://i.pinimg.com/originals/cd/6f/24/cd6f240d6467e74b1452991a638adf99.gif" style="padding-right:10px;" />
+<img  width="450px" src="https://i.pinimg.com/originals/cd/6f/24/cd6f240d6467e74b1452991a638adf99.gif" style="padding-right:10px;" />
 
 - 🔭 I’m currently working on my knowledge of AI and ML.
 - 🌱 I’m currently learning Flutter!
