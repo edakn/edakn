@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Connect with me:
+&nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/edaakin#gh-dark-mode-only)
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edaakin/)
 <br>
