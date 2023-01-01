@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 <img align="left" alt="Csharp" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="26px" style="padding-right:10px;/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px" style="padding-right:10px; />
-<img align="left" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/140px-Java_Logo.svg.png" alt="python" width="26px" style="padding-right:10px;/>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/140px-Java_Logo.svg.png" alt="python" width="26px" style="padding-right:10px;"/>
                                                                                                                                                     
 ---
                                                                                                                                                     
-### Stats:                                                                                                                          
+### Stats:         
+                                                                                                                                                    
 ![Eda's GitHub stats](https://github-readme-stats.vercel.app/api?username=edakn&show_icons=true&theme=tokyonight)
 
