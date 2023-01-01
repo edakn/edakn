@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="26px" style="padding-right:10px;/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px" style="padding-right:10px; />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/140px-Java_Logo.svg.png" alt="python" width="26px" style="padding-right:10px;/>
-
-### 
-<br>
+                                                                                                                                                    
+---
+                                                                                                                                                    
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=edakn&show_icons=true&theme=tokyonight) 
 
